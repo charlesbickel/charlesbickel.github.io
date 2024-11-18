@@ -25,3 +25,9 @@
 [![eCPPT](images/eCPPTv2.png)](https://verified.elearnsecurity.com/certificates/20cde042-3157-4a46-9423-5d792136ecc7)
 
 *2021 - eLearnSecurity Certified Professional Penetration Tester*
+
+---
+# Memberships & Associations
+
+Co-lead OWASP Cleveland Chapter
+OWASP Lifetime Member
