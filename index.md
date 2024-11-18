@@ -1,7 +1,3 @@
----
-layout: default
-title: Charles Bickel
----
 
 # Information Security Professional
 
