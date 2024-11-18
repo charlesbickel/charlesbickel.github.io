@@ -1,5 +1,5 @@
 # Charles Bickel
-- whoami
+- about me
 - certifications
 - blog
 - walkthroughs
