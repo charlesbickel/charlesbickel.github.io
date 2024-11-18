@@ -1,3 +1,4 @@
+- [Home](index.md)
 - [Blog](blog.md)
 - [Walkthroughs](walkthroughs.md)
 
