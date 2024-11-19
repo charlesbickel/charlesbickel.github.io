@@ -1,3 +1,2 @@
 - [Home](index.md)
-- [About Me](about.md)
 - [Walkthroughs](walkthroughs.md)
