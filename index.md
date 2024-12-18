@@ -3,13 +3,13 @@
 
 ---
 # Whoami
-I'm a cybersecurity professional with over a decade of experience specializing in Application Security and web application penetration testing. I built a scalable AppSec program from the ground up, integrating SAST, DAST, SCA, IAST, and secret scanning tools into the SDLC and CI/CD pipelines to enhance vulnerability detection and remediation across all stages of development and deployment.
+I'm a cybersecurity professional with over a decade of experience specializing in Application Security and penetration testing. I’m highly adaptable, deeply technical, and solutions-oriented, approaching challenges with an engineering mindset to deliver practical and effective outcomes.
 
-My achievements include selecting and implementing the STRIDE threat modeling methodology, curating and deploying tailored training videos for developers, and establishing a Security Champions program to promote a security-focused culture. I also bring experience in risk rating and leveraging data-driven metrics to prioritize security investments and demonstrate the business value of security initiatives, fostering alignment between technical teams and leadership.
+My achievements include building a scalable AppSec program from the ground up, integrating SAST, DAST, SCA, IAST, and secret scanning tools into the SDLC and CI/CD pipelines. I’ve also selected and implemented the STRIDE threat modeling methodology, curated and deployed tailored training videos for developers, and established a Security Champions program to promote a security-focused culture. Additionally, I bring experience in risk rating and using data-driven metrics to align technical efforts with organizational goals.
 
-I administrate the Cloudflare WAF and have experience working in AWS, GCP, and Azure cloud environments. Additionally, I’ve earned two CVEs and hold eWPT and eCPPT certifications, with plans to further expand my expertise by pursuing HackTricks ARTE certification.
+I have extensive experience performing penetration tests on various types of web applications, APIs, and mobile applications in diverse environments, including cloud-native and hybrid architectures. I administrate the Cloudflare WAF and have experience working in AWS, GCP, and Azure cloud environments. I hold eWPT and eCPPT certifications and am pursuing the HackTricks AWS Red Team Expert certification to deepen my expertise in cloud security.
 
-Outside of work, I co-lead the OWASP Cleveland Chapter, sharing knowledge with the security community through workshops and discussions. My background in IT, including Python automation and cloud security, gives me a well-rounded perspective on securing complex systems.
+Outside of work, I co-lead the OWASP Cleveland Chapter, sharing knowledge with the security community through workshops and discussions. I’m also interested in malware analysis and reverse engineering and am currently working toward the TCM Security Practical Malware Research Professional certification.
 
 
 ---
